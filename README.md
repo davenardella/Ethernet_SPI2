@@ -303,7 +303,7 @@ This library is derived directly from the original one remember only to change *
 please refer to the original documentation <a href="https://github.com/arduino-libraries/Ethernet" target="_blank">here</a>
 
 ### Installation
-Download this repository as zip file then rename **Ethernet_SPI2-master.zip** in **Ethernet_SPI2.zip**
+Download this repository as zip file then rename **Ethernet_SPI2-main.zip** in **Ethernet_SPI2.zip**
 
 Into Arduino Ide, install this file, as usual
 
