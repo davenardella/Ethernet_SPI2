@@ -73,7 +73,7 @@ Here the most popular Ethernet example : the WebServer, but here it works with t
  Dual Web Server
   
  A quick and dirty example of using two Ethernet adapters contemporary on Arduino GIGA R1 WIFI 
- please refer to ..
+ please refer to [..](https://github.com/davenardella/Ethernet_SPI2)
  for hardware examples
 
  2023 Dave Nardella
